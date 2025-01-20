@@ -1,0 +1,41 @@
+.first{
+    height: 80px;
+    width: 800px;
+
+}
+img{
+height: 80px;
+}
+nav{
+    background-color:rgb(220, 219, 235);
+    
+    color: white;
+    display:flex;
+    align-items: center;
+    
+}
+a{
+    color: black;
+    margin-left: 20px;
+    
+}
+a:hover{
+   border: 1px solid white; 
+   padding: 5px;
+   border-radius: 10px;
+}
+input{
+    width: 50px;
+}
+.menu{
+    margin-left: 100px;
+} 
+button{
+    color: white;
+    background-color:rgb(28, 209, 0);
+    border-radius: 10PX;
+    align-items: center;
+    border: 1px;
+    padding: 5px;
+    border-radius: 20px;
+}
